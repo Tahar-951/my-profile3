@@ -1,0 +1,122 @@
+html{
+	font-family: Oswald;
+}
+
+body{
+	background-color: #CEAF4D;
+	color: #272829;
+	text-align: center;
+}
+
+.bienvenue{
+	font-size: 100px;
+}
+
+.presentation{
+	width: 900px;
+	display: block;
+	align-items: flex-start;
+	justify-content: center;
+	margin: 20px auto;
+	background-image: url(https://static.vecteezy.com/ti/vecteur-libre/p1/3796510-abstrait-jaune-et-gris-gradeint-fond-clair-vectoriel.jpg);
+	background-size: cover;
+	text-align: center;
+	border-radius: 5px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.5);
+	font-size: 30px;
+
+}
+
+.foot{
+	width: 900px;
+	display: block;
+	align-items: flex-start;
+	justify-content: center;
+	margin: 20px auto;
+	background-image: url(https://static.vecteezy.com/ti/vecteur-libre/p1/3796510-abstrait-jaune-et-gris-gradeint-fond-clair-vectoriel.jpg);
+	background-size: cover;
+	text-align: center;
+	border-radius: 5px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.5);
+	font-size: 30px;
+}
+
+.voyage{
+	width: 900px;
+	display: block;
+	align-items: flex-start;
+	justify-content: center;
+	margin: 20px auto;
+	background-image: url(https://static.vecteezy.com/ti/vecteur-libre/p1/3796510-abstrait-jaune-et-gris-gradeint-fond-clair-vectoriel.jpg);
+	background-size: cover;
+	text-align: center;
+	border-radius: 5px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.5);
+	font-size: 30px;
+}
+
+.moto{
+	width: 900px;
+	display: block;
+	align-items: flex-start;
+	justify-content: center;
+	margin: 20px auto;
+	background-image: url(https://static.vecteezy.com/ti/vecteur-libre/p1/3796510-abstrait-jaune-et-gris-gradeint-fond-clair-vectoriel.jpg);
+	background-size: cover;
+	text-align: center;
+	border-radius: 5px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.5);
+	font-size: 30px;
+}
+
+.paris{
+	width: 900px;
+	display: block;
+	align-items: flex-start;
+	justify-content: center;
+	margin: 20px auto;
+	background-image: url(https://static.vecteezy.com/ti/vecteur-libre/p1/3796510-abstrait-jaune-et-gris-gradeint-fond-clair-vectoriel.jpg);
+	background-size: cover;
+	text-align: center;
+	border-radius: 5px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.5);
+	font-size: 30px;
+}
+
+.reseau_sociaux{
+	width: 900px;
+	display: block;
+	align-items: flex-start;
+	justify-content: center;
+	margin: 20px auto;
+	background-image: url(https://static.vecteezy.com/ti/vecteur-libre/p1/3796510-abstrait-jaune-et-gris-gradeint-fond-clair-vectoriel.jpg);
+	background-size: cover;
+	text-align: center;
+	border-radius: 5px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.5);
+	font-size: 30px;
+}
+
+.reseau_sociaux a{
+	font-size: 70px;
+	color: #272829;
+}
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .container {
+    width: 300px;
+  }
+}
